@@ -7,3 +7,5 @@ It is a web-based educational platform for students
 HTML,CSS and <a> Bootstrapt </a>
 
 <h3>Screen </h3>
+
+![](BS.gif)
